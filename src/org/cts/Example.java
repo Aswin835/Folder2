@@ -1,10 +1,13 @@
 package org.cts;
 
 public class Example {
+	static int a = 2;
 public static void main(String[] args) {
-	System.out.println("tt");
+	System.out.println(a);
 }
-	
 
-}
+
+}	
+
+
 
